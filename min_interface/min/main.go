@@ -1,0 +1,4 @@
+package min
+
+func main() {
+}
